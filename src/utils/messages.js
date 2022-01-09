@@ -19,6 +19,8 @@ const getLocation = (username,currentLocation)=>{
 
 
 module.exports = {
+    
     generateMessage,
     getLocation
+    
 } 

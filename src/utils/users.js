@@ -51,7 +51,6 @@ const getUsersInRoom = (room)=>{
 }
  
  
-//  console.log(users)
 
 module.exports = {
     addUser,

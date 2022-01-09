@@ -42,7 +42,7 @@ const removeUser = (id)=>{
 
 const getUser = (id)=>{
    let found = users.find((user)=> user.id === id)
- return found
+  return found
 }
 
 const getUsersInRoom = (room)=>{
